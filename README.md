@@ -1,3 +1,5 @@
+> **Fork notice:** DockDeskBuild is a fork of [DocKDes/DockDesk](https://github.com/DocKDes/DockDesk). The original project, its history and upstream releases remain available at that repository.
+
 <div align="center">
   <img src="public/icon.png" alt="DockDeskBuild logo" width="96">
   <h1>DockDeskBuild</h1>
@@ -18,8 +20,6 @@
     <a href="https://github.com/tadeumx1/DockDeskBuild/issues">Report an issue</a>
   </p>
 </div>
-
-> **Fork notice:** DockDeskBuild is a fork of [DocKDes/DockDesk](https://github.com/DocKDes/DockDesk). The original project, its history and upstream releases remain available at that repository.
 
 <p align="center">
   <img src="public/docs/screenshots/overview.png" alt="DockDesk overview dashboard" width="100%">
