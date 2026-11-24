@@ -1,4 +1,4 @@
-name: Release
+name: Release (disabled)
 on:
   push:
     tags: ['v*']
