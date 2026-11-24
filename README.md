@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="public/icon.png" alt="DockDesk logo" width="96">
-  <h1>DockDesk</h1>
+  <img src="public/icon.png" alt="DockDeskBuild logo" width="96">
+  <h1>DockDeskBuild</h1>
   <p><strong>A fast, lightweight Docker Desktop alternative for Linux</strong></p>
   <p>Manage containers, images, volumes, networks and Compose projects from a focused desktop UI over the Docker Engine you already run.</p>
   <p>
-    <a href="https://github.com/DocKDes/DockDesk/releases"><img src="https://img.shields.io/github/v/release/DocKDes/DockDesk?display_name=tag&sort=semver&style=for-the-badge&label=release" alt="Latest release"></a>
-    <a href="https://github.com/DocKDes/DockDesk/blob/main/LICENSE"><img src="https://img.shields.io/github/license/DocKDes/DockDesk?style=for-the-badge" alt="MIT license"></a>
-    <a href="https://github.com/DocKDes/DockDesk/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/DocKDes/DockDesk/ci.yml?style=for-the-badge&label=CI" alt="CI status"></a>
-    <a href="https://www.npmjs.com/package/dockdesk"><img src="https://img.shields.io/npm/v/dockdesk?style=for-the-badge&label=npm" alt="npm package"></a>
+    <a href="https://github.com/DocKDes/DockDesk/releases"><img src="https://img.shields.io/github/v/release/DocKDes/DockDesk?display_name=tag&sort=semver&style=for-the-badge&label=upstream%20release" alt="Latest upstream release"></a>
+    <a href="LICENSE"><img src="https://img.shields.io/github/license/tadeumx1/DockDeskBuild?style=for-the-badge" alt="MIT license"></a>
+    <a href="https://github.com/tadeumx1/DockDeskBuild/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/tadeumx1/DockDeskBuild/ci.yml?style=for-the-badge&label=CI" alt="CI status"></a>
+    <a href="https://www.npmjs.com/package/dockdesk"><img src="https://img.shields.io/npm/v/dockdesk?style=for-the-badge&label=upstream%20npm" alt="Upstream npm package"></a>
   </p>
   <p>
     <a href="#install">Install</a> ·
@@ -15,15 +15,17 @@
     <a href="#what-it-does">Features</a> ·
     <a href="CONTRIBUTING.md">Contributing</a> ·
     <a href="SECURITY.md">Security</a> ·
-    <a href="https://github.com/DocKDes/DockDesk/issues">Report an issue</a>
+    <a href="https://github.com/tadeumx1/DockDeskBuild/issues">Report an issue</a>
   </p>
 </div>
+
+> **Fork notice:** DockDeskBuild is a fork of [DocKDes/DockDesk](https://github.com/DocKDes/DockDesk). The original project, its history and upstream releases remain available at that repository.
 
 <p align="center">
   <img src="public/docs/screenshots/overview.png" alt="DockDesk overview dashboard" width="100%">
 </p>
 
-> DockDesk is a local-first GUI for the Docker Engine. It does not bundle a VM or run an extra daemon, and it stays small: under 1 MB of source, a roughly 250 KB `.deb`, and zero npm runtime dependencies.
+> DockDeskBuild is a local-first GUI for the Docker Engine. It does not bundle a VM or run an extra daemon, and it stays small: under 1 MB of source, a roughly 250 KB `.deb`, and zero npm runtime dependencies.
 
 ## What it does
 

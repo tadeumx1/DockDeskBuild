@@ -6,11 +6,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DocKDes/DockDesk.git"
+    "url": "git+https://github.com/tadeumx1/DockDeskBuild.git"
   },
-  "homepage": "https://github.com/DocKDes/DockDesk#readme",
+  "homepage": "https://github.com/tadeumx1/DockDeskBuild#readme",
   "bugs": {
-    "url": "https://github.com/DocKDes/DockDesk/issues"
+    "url": "https://github.com/tadeumx1/DockDeskBuild/issues"
   },
   "keywords": [
     "docker",

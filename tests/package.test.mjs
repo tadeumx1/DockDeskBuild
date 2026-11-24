@@ -109,8 +109,8 @@ describe('npm package', { skip: haveNpm ? false : 'npm is not installed' }, () =
   after(() => J.cleanup())
 
   it('links to the repository, homepage and issue tracker', () => {
-    assert.equal(pkg.repository.url, 'git+https://github.com/DocKDes/DockDesk.git')
-    assert.equal(pkg.homepage, 'https://github.com/DocKDes/DockDesk#readme'); assert.equal(pkg.bugs.url, 'https://github.com/DocKDes/DockDesk/issues')
+    assert.equal(pkg.repository.url, 'git+https://github.com/tadeumx1/DockDeskBuild.git')
+    assert.equal(pkg.homepage, 'https://github.com/tadeumx1/DockDeskBuild#readme'); assert.equal(pkg.bugs.url, 'https://github.com/tadeumx1/DockDeskBuild/issues')
     assert.equal(pkg.publishConfig.access, 'public')
   })
   it('has no dependencies and runs no scripts at install time (supply-chain safety)', () => {
